@@ -1,4 +1,4 @@
-# Data-visualization-small-project
+# Data-visualization-small-project-for-biggeners
 Small project of Data Visualization using pyWaffle package with python 
 
 Dataset using in this project is : ##**Immigration to Canada from 1980 to 2013**
